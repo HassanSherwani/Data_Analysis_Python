@@ -7,6 +7,7 @@ Basic programming and stat concepts using Pandas.
 numpy<br>
 Pandas<br>
 matplotlib<br>
+Quandl<br>
 datetime<br>
 
 
